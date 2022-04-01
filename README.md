@@ -2,6 +2,10 @@
 <br>
 <p>Miluk programmin language 표준형</p>
 <br>
-```
-std>println("hello, world");
-```
+<pre>
+<code>
+func main(){
+   std>println("hello, world");
+}
+</code>
+</pre>
